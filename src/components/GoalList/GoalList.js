@@ -1,6 +1,5 @@
 import React from "react";
-
-import "./GoalList.css"
+import './GoalList.css'
 
 
 const GoalList = props =>{
